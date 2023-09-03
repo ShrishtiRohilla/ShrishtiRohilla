@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @ShrishtiRohilla
-- 👀 I’m interested in Data Analytics Field
-- 🌱 I’m currently learning SQL and Python
+- 👋 Hi, I’m ShrishtiRohilla
+- 👀 Interested in Data Analytics Field
+- 🌱 Acquiring Skills
+- 💡 Mathematics Geek
+- 👩🏻‍💻 SQL, Excel, PowerBI, Python 
+  
+  
   
   
 
